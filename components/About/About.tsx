@@ -43,8 +43,8 @@ const About = () => {
         <Image
           className="img-overlay-control"
           w={{ base: '15rem', sm: '15rem', md: '15rem', lg: '30rem', xl: '30rem', '2xl': '30rem' }}
-          src="portrait.jpg"
-          alt="Bukola testimony's Official Portrait"
+          src="slack.jpg"
+          alt="Faboya Basil's Official Portrait"
           borderRadius={10}
         />
       </Box>
@@ -74,7 +74,7 @@ const About = () => {
           data-aos="fade-left"
           data-aos-delay="300"
         >
-          Hello! My name is Bukola.  I am a Human-resource Consultant and a Cloud DevOps Engineer. I love problem-solving and collaborating with progressive minded individuals. I constantly engage in personal development. I hope to make a lot of money and travel the world.
+          Greetings! I'm Faboya Basil, a skilled Cloud DevOps Engineer specializing in optimizing software delivery through efficient and scalable practices. With a background in software development and expertise in cloud technologies, I excel at building and maintaining robust CI/CD pipelines.
         </Text>
         <Text
           mb={'2rem'}
@@ -82,10 +82,7 @@ const About = () => {
           data-aos="fade-left"
           data-aos-delay="400"
         >
-          I am a Tech enthusiast and spend most of my time creating solutions. I love to solve problems and also have fun while learning new things. I am an AWS Certified Cloud Practitioner(CLF-CO1). View my badge{' '}
-          <Link color="#8c9095" href="https://www.credly.com/badges/40c68c84-ef41-4b91-be39-2cd9b8d06391/email" target="_blank">
-            here.
-          </Link>
+          Throughout my career, I have focused on automating software delivery processes using tools like Jenkins, GitLab CI/CD, and AWS CodePipeline. I possess a deep understanding of cloud platforms such as AWS, Azure, and GCP, utilizing infrastructure-as-code (IaC) tools like Terraform and CloudFormation to efficiently manage resources. Additionally, I have hands-on experience with containerization technologies like Docker and Kubernetes, enabling the scalability and resilience of microservices architectures.
         </Text>
         <Text
           mb={'2rem'}
@@ -93,8 +90,18 @@ const About = () => {
           data-aos="fade-left"
           data-aos-delay="500"
         >
-          I specialize in cloud infrastructure, systems engineering,software installation, automation, and CI/CD pipelines. I have experience with a wide range of technologies including AWS and GCP cloud platforms.
+          Collaboration and effective communication are fundamental aspects of my work. I have a proven track record of collaborating closely with development teams, architects, and stakeholders to understand business requirements and translate them into scalable infrastructure designs. Thriving in fast-paced, agile environments, I continuously embrace new technologies and methodologies to stay ahead in the dynamic DevOps landscape.
         </Text>
+        
+        <Text
+          mb={'2rem'}
+          fontSize={{ base: 'md', sm: 'md', md: 'md', lg: 'lg', xl: 'lg', '2xl': 'lg' }}
+          data-aos="fade-left"
+          data-aos-delay="500"
+        >
+          In summary, as a dedicated Cloud DevOps Engineer, I am committed to optimizing software delivery, streamlining processes, and ensuring the highest quality of software products. I possess a strong passion for leveraging cloud technologies, automation, and best DevOps practices to empower development teams and drive efficiency throughout the software development lifecycle.
+        </Text>
+
         <Text
           fontSize={{
             base: '1.3rem',

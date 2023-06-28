@@ -58,23 +58,23 @@ const Contact = () => {
         data-aos="fade-up"
         data-aos-delay="400"
       >
-        <Link href="https://github.com/Bukola-Testimony" target="_blank" className="logo">
+        <Link href="https://github.com/Faboya-korede" target="_blank" className="logo">
           <FaGithub cursor="pointer" />
         </Link>
 
-        <Link href="https://linkedin.com/in/bukola-testimony" target="_blank" className="logo">
+        <Link href="https://www.linkedin.com/in/korede-faboya-061469259/" target="_blank" className="logo">
           <FaLinkedin />
         </Link>
 
-        <Link href="mailto:bukolatestimony1@gmail.com" target="_blank" className="logo">
+        <Link href="mailto:faboyakorede@gmail.com" target="_blank" className="logo">
           <FaEnvelope />
         </Link>
 
-        <Link href="https://twitter.com/BukolaTestimony" target="_blank" className="logo">
+        <Link href="https://twitter.com/That_boy_korede" target="_blank" className="logo">
           <FaTwitter />
         </Link>
 
-        <Link href="https://instagram.com/bukola_testimony" target="_blank" className="logo">
+        <Link href="https://www.instagram.com/_korede__/" target="_blank" className="logo">
           <FaInstagram />
         </Link>
       </Flex>

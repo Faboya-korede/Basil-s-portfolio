@@ -32,7 +32,7 @@ const Hero = () => {
           fontSize={{ base: '4xl', sm: '4xl', md: '4xl', lg: '5xl', xl: '5xl', '2xl': '5xl' }}
           fontWeight="bold"
         >
-          Bukola Testimony
+          Faboya Basil 
         </Text>
         <Text
           data-aos="fade-up"
@@ -42,7 +42,7 @@ const Hero = () => {
           fontWeight="bold"
           color="#8c9095"
         >
-          I am a Cloud DevOps Engineer
+          I'm a Cloud DevOps Engineer
         </Text>
         <Text
           data-aos="fade-up"
@@ -50,14 +50,14 @@ const Hero = () => {
           mt={5}
           w={{ base: '20rem', sm: '25rem', md: '35rem', lg: '35rem', xl: '35rem', '2xl': '35rem' }}
         >
-           I am a Human-resource Consultant and a Cloud DevOps Engineer. I love problem-solving and collaborating with progressive minded individuals. I constantly engage in personal development. I hope to make a lot of money and travel the world.
+          Cloud DevOps Engineer with expertise in AWS, GCP, and Azure. Experienced in CI/CD, automation, and configuration management, with strong problem-solving abilities. Proficient in Terraform, Ansible, Kubernetes, Docker, Linux, Monitoring and Logging, Backup and Recovery.
         </Text>
         <Button
           data-aos="fade-up"
           data-aos-delay="500"
           className="btn"
           as="a"
-          href="/resume.pdf"
+          href="/basil's-resume.pdf"
           target="_blank"
           outline="solid"
           background="none"
@@ -78,7 +78,7 @@ const Hero = () => {
         w={{ base: '20rem', sm: '20rem', md: '20rem' }}
         display={{ base: 'none', sm: 'none', md: 'none', lg: 'flex', xl: 'flex', '2xl': 'flex' }}
       >
-        <Image src="memoji.png" alt="Bukola Testimony's Memoji" />
+        <Image src="k-memoji.jpg" alt="Faboya Basil's Memoji" />
       </Box>
     </Flex>
   );

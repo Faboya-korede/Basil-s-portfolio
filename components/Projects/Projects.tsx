@@ -62,13 +62,13 @@ const Projects = () => {
               data-aos="fade-down-right"
               data-aos-delay="500"
             >
-              Terraform Project
+              Ansible Project
             </Text>
             <Text data-aos="fade-down-right" data-aos-delay="500">
-            Deploying AWS infrastructure with terraform.
+            Automated Laravel Deployment with Ansible.
             </Text>
             <Text data-aos="fade-down-right" data-aos-delay="500" mt={'1rem'}>
-            Creating a Virtual Private Cloud (VPC) with public and private subnets is a great way to isolate your applications and resources away from the public internet. This project provides step-by-step instructions on how to create a VPC with public and private subnets, a NAT gateway, and an Internet gateway in the Amazon Web Services (AWS) environment using terraform.
+            The "Automated Laravel Deployment with Ansible" project on GitHub aims to automate the deployment process of Laravel applications using Ansible. It provides Ansible playbooks, roles, and configuration files tailored for Laravel applications. By leveraging Ansible's automation capabilities, it simplifies tasks such as server provisioning, environment setup, and application deployment. The project offers modularity and customization options to suit different project requirements. With clear documentation and step-by-step instructions, it provides a streamlined approach to deploying Laravel applications while ensuring consistency and reliability.
             </Text>
             <Flex
               mt={'2rem'}
@@ -88,7 +88,7 @@ const Projects = () => {
                 className="project-btn"
                 leftIcon={<FaGithub />}
                 as="a"
-                href="https://github.com/Bukola-Testimony/Deploying-AWS-VPC-and-webservers-with-Terraform"
+                href="https://github.com/Faboya-korede/Automated-Laravel-Deployment-with-Ansible.git"
                 target="_blank"
                 outline="solid"
                 background="none"
@@ -102,7 +102,7 @@ const Projects = () => {
                 className="project-btn"
                 leftIcon={<FaExternalLinkAlt />}
                 as="a"
-                href="https://raw.githubusercontent.com/Bukola-Testimony/Deploying-AWS-VPC-and-webservers-with-Terraform/main/project-architecture.png"
+                href="https://github.com/Faboya-korede/Automated-Laravel-Deployment-with-Ansible.git"
                 target="_blank"
                 outline="solid"
                 background="none"
@@ -114,7 +114,7 @@ const Projects = () => {
             </Flex>
           </Box>
           <Image
-            src="/project-architecture.png"
+            src="/laravel-pic.png"
             alt="Terraform Project Preview"
             width={'40rem'}
             borderRadius="8px"
@@ -138,7 +138,7 @@ const Projects = () => {
           gap="5rem"
         >
           <Image
-            src="/laravel.png"
+            src="/terra.png"
             alt="Laravel Project Preview"
             width={'40rem'}
             borderRadius="8px"
@@ -155,15 +155,13 @@ const Projects = () => {
               data-aos="fade-left"
               data-aos-delay="600"
             >
-              Deploying a Laravel Real world application
+              Simple Html site Deployed using terraform and ansible
             </Text>
             <Text data-aos="fade-left" data-aos-delay="700">
-              Deploying a Laravel Real world application using Debian 11 virtual machine instance with Amazon Web Services (AWS) as the cloud provider.
+            The "Simple html site deploy using terraform and ansible" GitHub repository showcases my expertise in deploying HTML websites using Terraform and Infrastructure as Code (IaC) principles.
             </Text>
             <Text mt={'1rem'} data-aos="fade-left" data-aos-delay="800">
-              Setup Apache2 with every dependency the application needs to run.
-              clone the project with Git and deploy with apache.
-              Setup MySQL with credentials and a database for the application to use.
+            Through the use of Terraform's declarative syntax, this project enables streamlined provisioning and deployment of infrastructure resources for static websites. With comprehensive documentation and Terraform configuration files available in the repository, it offers an efficient and scalable approach to managing infrastructure, highlighting my proficiency in automating deployments and ensuring reliable infrastructure for HTML websites. 
             </Text>
             <Flex
               mt={'2rem'}
@@ -183,7 +181,7 @@ const Projects = () => {
                 className="project-btn"
                 leftIcon={<FaGithub />}
                 as="a"
-                href="https://github.com/Bukola-Testimony/LARAVEL-REAL-LIFE-APPLICATION"
+                href="https://github.com/Faboya-korede/Infrastructure-as-Code-HTML-Site-Deployment-with-Terraform.git"
                 target="_blank"
                 outline="solid"
                 background="none"
@@ -196,7 +194,7 @@ const Projects = () => {
                 className="project-btn"
                 leftIcon={<FaExternalLinkAlt />}
                 as="a"
-                href="https://raw.githubusercontent.com/Bukola-Testimony/LARAVEL-REAL-LIFE-APPLICATION/main/images/ccc.png"
+                href="https://github.com/Faboya-korede/Infrastructure-as-Code-HTML-Site-Deployment-with-Terraform.git"
                 target="_blank"
                 outline="solid"
                 background="none"
